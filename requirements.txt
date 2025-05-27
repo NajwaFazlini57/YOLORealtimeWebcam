@@ -2,3 +2,5 @@ torch
 torchvision
 opencv-python
 tensorflow
+cv2
+streamlit
